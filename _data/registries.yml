@@ -1,8 +1,5 @@
-- name: Amazon
-  url: amazon.com
-- name: Target
-  url: target.com
-- name: Crate & Barrel
-  url: https://www.crateandbarrel.com/
-- name: Macy's
-  url: https://www.macys.com/
+- name: El Palacio de Hierro
+  url: https://www.elpalaciodehierro.com/
+- name: El Puerto de Liverpool
+  url: https://www.liverpool.com.mx/tienda/home
+

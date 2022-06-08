@@ -16,21 +16,20 @@
 
 - name: Wedding Ceremony
   main_event: true
-  date: 2022-02-18 17:00:00 −04:00
-  endDate: 2021-04-03 21:00:00 -04:00
-  attire: Tux
+  date: 2023-02-18 17:00:00 −04:00
+  endDate: 2023-03-03 02:00:00 -04:00
+  attire: Formal
   description: Lots of drinking and partying
   transportation:
   shuttle:
   location:
-    address: Tania St
-    city: Merida
+    address: Calle 35 con 14 sin número Hda. Chichí Suárez 
     state: MX
     long_state: Mexico
     zip: 37748
-    coordinates: 41.911652,-87.641253
-    google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
-    venue_name:
+    coordinates: 20.9990657,-89.553549
+    google_maps_url: https://www.google.com/maps/place/Hacienda+Chich%C3%AD+Su%C3%A1rez/@20.9990657,-89.553549,17z/data=!3m1!4b1!4m5!3m4!1s0x8f567754a258d185:0x8aed6fe5941e8132!8m2!3d20.9990657!4d-89.553549?hl=es-MX
+    venue_name: Hacienda Chchí Suárez
   calendar_description: So fun!
 
 # - name: Reception
