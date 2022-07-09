@@ -24,8 +24,8 @@
   shuttle:
   location:
     address: Calle 35 con 14 sin número Hda. Chichí Suárez 
-    state: MX
-    long_state: Mexico
+    state: Mérida
+    long_state: Yucatán
     zip: 37748
     coordinates: 20.9990657,-89.553549
     google_maps_url: https://www.google.com/maps/place/Hacienda+Chich%C3%AD+Su%C3%A1rez/@20.9990657,-89.553549,17z/data=!3m1!4b1!4m5!3m4!1s0x8f567754a258d185:0x8aed6fe5941e8132!8m2!3d20.9990657!4d-89.553549?hl=es-MX

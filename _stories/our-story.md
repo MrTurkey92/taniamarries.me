@@ -1,6 +1,7 @@
 ---
 order: 0
 ---
-## Bla 0
+## ¡Bienvenido a la página de nuestra boda! 
 
-Lorem ipsum
+No podemos esperar para compartir este día tan especial contigo. Aquí encontrarás toda la información referente a nuestra boda, esperemos te sea de ayuda.
+
