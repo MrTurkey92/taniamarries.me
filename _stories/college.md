@@ -3,6 +3,10 @@ order: 1
 image: assets/img/chairs.jpg
 image_position: bottom
 ---
-### Bla 1
+## Lo importante
 
-Bla bla bla
+<ul>
+  <li>¿Cuándo?</li>
+  <li>¿Dónde?</li>
+  <li>Dress Code</li>
+</ul>
