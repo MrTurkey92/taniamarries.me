@@ -17,6 +17,7 @@
 - name: Wedding Ceremony
   main_event: true
   date: 2023-02-18 17:00:00 −04:00
+  date_alt: Sabado, Febrero 18 2023 | 17:00
   endDate: 2023-03-03 02:00:00 -04:00
   attire: Formal
   description: Lots of drinking and partying
@@ -24,7 +25,7 @@
   shuttle:
   location:
     address: Calle 35 con 14 sin número Hda. Chichí Suárez 
-    state: YUC
+    state: Yucatán
     city: Mérida
     long_state: Yucatán
     zip: 37748
@@ -33,16 +34,16 @@
     venue_name: Hacienda Chichí Suárez
   calendar_description: So fun!
 
-# - name: Reception
-#   date_alt: Immediately following the ceremony
-#   attire: snappy casual
-#   description: The wedding reception is at the same venue as the ceremony and will commence directly after the ceremony ends. Venue staff will direct you to the reception space. Dinner will be provided and make sure to bring your dancing shoes!
-#   location:
-#     address: 640 Pansy Hill Rd
-#     city: Harriman
-#     state: TN
-#     long_state: Tennessee
-#     zip: 37748
-#     coordinates: 41.911652,-87.641253
-#     google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
-#     venue_name:
+- name: Reception
+  date_alt: Immediately following the ceremony
+  attire: snappy casual
+  description: The wedding reception is at the same venue as the ceremony and will commence directly after the ceremony ends. Venue staff will direct you to the reception space. Dinner will be provided and make sure to bring your dancing shoes!
+  location:
+    address: 640 Pansy Hill Rd
+    city: Harriman
+    state: TN
+    long_state: Tennessee
+    zip: 37748
+    coordinates: 41.911652,-87.641253
+    google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
+    venue_name:

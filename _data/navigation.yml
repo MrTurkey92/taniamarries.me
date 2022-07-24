@@ -1,6 +1,8 @@
 - name: Timeline
-  link: /timeline
-- name: Details
+  link: /celebrations
+- name: Detalles
   link: /details
+- name: Mesa de Regalos
+  link: /registry
 - name: FAQ
   link: /faq
