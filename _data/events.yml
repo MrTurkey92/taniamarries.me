@@ -24,8 +24,8 @@
   shuttle:
   location:
     address: Calle 35 con 14 sin número Hda. Chichí Suárez 
-    state: Mérida
-    long_city: Mérida
+    state: YUC
+    city: Mérida
     long_state: Yucatán
     zip: 37748
     coordinates: 20.9990657,-89.553549
