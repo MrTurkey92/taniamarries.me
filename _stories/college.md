@@ -6,7 +6,11 @@ image_position: bottom
 ## Lo importante
 
 <ul>
-  <li>¿Cuándo?</li>
-  <li>¿Dónde?</li>
-  <li>Dress Code</li>
+  ###¿Cuándo?
+	18 de Febrero del 2023
+  ###¿Dónde?
+	Hacienda Chichí Suárez
+	Mérida, Yucatán
+  ###Dress Code
+	Formal (ver FAQ)
 </ul>
