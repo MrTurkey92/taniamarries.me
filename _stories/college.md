@@ -1,7 +1,7 @@
 ---
 order: 1
-image: assets/img/chairs.jpg
-image_position: bottom
+image: assets/img/DSC01228.jpg
+image_position: center 80%
 ---
 ## Lo importante
 
