@@ -1,6 +1,3 @@
-- name: Detalles
-  link: /details
 - name: Mesa de Regalos
   link: /registry
-- name: FAQ
-  link: /faq
+

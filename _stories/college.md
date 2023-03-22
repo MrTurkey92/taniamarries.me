@@ -3,14 +3,9 @@ order: 1
 image: assets/img/DSC01228.jpg
 image_position: center 80%
 ---
-## Lo importante
+
 
 <ul>
-  <h3>¿Cuándo?</h3>
-	18 de Febrero del 2023
-  <h3>¿Dónde?</h3>
-	Hacienda Chichí Suárez
-	Mérida, Yucatán
-  <h3>Dress Code</h3>
-	Formal (ver FAQ)
+  <h3>Mesa de Regalos</h3>
+	Abierta hasta el 20 de Abril a un click de distancia: <a href="https://www.elpalaciodehierro.com/buscar?eventId=370110">Regalo</a>
 </ul>

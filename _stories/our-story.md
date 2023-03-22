@@ -1,7 +1,10 @@
 ---
 order: 0
 ---
-## ¡Bienvenido a la página de nuestra boda! 
+## ¡Gracias por ser parte de este recuerdo y esta historia! 
 
-No podemos esperar para compartir este día tan especial contigo. Aquí encontrarás toda la información referente a nuestra boda, esperemos te sea de ayuda.
+Creamos un <a href="https://dropbox.com/scl/fo/vf4kfvxa4x5dn9d1duhf3/h?dl=0&rlkey=l9n2o032b30dim7ji5snpvltk">Dropbox</a>al que todos pueden acceder para subir/bajar fotos y videos de la boda.
+Para entrar den click aquí sin necesidad de registrarse: <a href="https://dropbox.com/scl/fo/vf4kfvxa4x5dn9d1duhf3/h?dl=0&rlkey=l9n2o032b30dim7ji5snpvltk">Boda Tania y David</a>
+
+
 
