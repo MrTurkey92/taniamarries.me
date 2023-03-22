@@ -1,6 +1,6 @@
 ---
 order: 1
-image: assets/img/DSC01228.jpg
+image: assets/img/NF2A6747.jpg
 image_position: center 80%
 ---
 
