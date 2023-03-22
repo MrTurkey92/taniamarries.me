@@ -12,9 +12,9 @@
         <p text-align: justify>Es por eso que pensamos en aprovechar todas las ventajas que nos da el neoliberalismo y abrimos una mesa de regalos especial en el Palacio de Hierro que sólo tiene certificados de regalo,
         que empiezan desde $100, pero con la ventaja para nosotros que el PH añadirá 15% extra a lo que ustedes quieran regalarnos y ese 115% usarlo para pagar nuestra deudas en la Tarjeta Palacio (i.e. Luna de Miel).
         </p>
-      Pueden encontrar nuestra mesa de regalos en
+      Pueden encontrar nuestra mesa de regalos y comprar directo en línea en el siguiente link:
         {% for reg in site.data.registries %}
-          {% if forloop.last == true%} y en {% endif %}
+          {% if forloop.last == true%}  {% endif %}
           <a href="{{ reg.url }}" target="_blank">{{ reg.name }}</a>{% if reg.numb %}
           (evento {{ reg.numb }}){% endif %}{% if forloop.last == true %}.{% endif %}
         {% endfor %}
